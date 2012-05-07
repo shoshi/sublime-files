@@ -1,4 +1,4 @@
 sublime-files
 =============
 
-Sublime text preferences and snippets for vendor prefixes
+My Sublime Text preferences and snippets for CSS3 properties with vendor prefixes.
