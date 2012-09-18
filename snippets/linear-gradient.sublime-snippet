@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-  background: $1;
+  background: $2;
   background: -webkit-gradient(linear, left top, left bottom,
                             color-stop(0%, $1), color-stop(100%, $2));
   background: -webkit-linear-gradient(top, $1 0%,                $2 100%);
